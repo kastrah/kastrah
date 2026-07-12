@@ -15,10 +15,6 @@ I turn complex products into clear stories that drive growth. Currently building
 | [humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns, makes text sound natural |
 | [market-command-matrix](https://github.com/kastrah/market-command-matrix) | Competitive research playbook for agents |
 
-#### Infrastructure & data
-
-[agentcookie](https://github.com/kastrah/agentcookie) · [trending-scraper](https://github.com/kastrah/trending-scraper) · [hermes-agent](https://github.com/kastrah/hermes-agent)
-
 #### Other projects
 
-[Qisas](https://github.com/kastrah/Qisas) · [tiktok-automation](https://github.com/kastrah/tiktok-automation) · [handwriting-converter](https://github.com/kastrah/handwriting-converter) · [tufte-vdqi-plugin](https://github.com/kastrah/tufte-vdqi-plugin) · [SlideSmith](https://github.com/kastrah/SlideSmith) · [roughdraft](https://github.com/kastrah/roughdraft) · [rge-cli](https://github.com/kastrah/rge-cli)
+[trending-scraper](https://github.com/kastrah/trending-scraper) · [tiktok-automation](https://github.com/kastrah/tiktok-automation) · [handwriting-converter](https://github.com/kastrah/handwriting-converter) · [Qisas](https://github.com/kastrah/Qisas) · [rge-cli](https://github.com/kastrah/rge-cli)
