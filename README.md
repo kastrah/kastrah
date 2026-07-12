@@ -1,21 +1,21 @@
-# Kastrah
+Building tools for the AI-agent era — writing skills, market intelligence, and infrastructure that makes agents actually useful.
 
-Writing tools for copy that sounds human.
+## Projects
 
-## Stack
+**Writing stack** — three skills that layer together:
 
 | Layer | Tool | What it does |
 |-------|------|-------------|
-| 1 — Persuasion | [copy-pass](https://github.com/kastrah/copy-pass) | Strengthens hooks, CTAs, objections, emotional triggers, platform fit |
-| 2 — Conversation | [care-review](https://github.com/kastrah/care-review) | Checks tone: conversational, actionable, engaging |
-| 3 — Voice | [humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns, makes text sound natural |
-
-The three tools stack in order. Run all three for the best result:
+| 1 — Persuasion | [copy-pass](https://github.com/kastrah/copy-pass) | Hooks, CTAs, objections, platform fit |
+| 2 — Conversation | [care-review](https://github.com/kastrah/care-review) | Conversational check, actionable, engaging |
+| 3 — Voice | [humaniser](https://github.com/kastrah/humaniser) | Removes AI writing patterns |
 
 ```text
 Draft → copy-pass → care-review → humaniser → publish / send
 ```
 
-## About
+**Agent tools** — [market-command-matrix](https://github.com/kastrah/market-command-matrix) · [agentcookie](https://github.com/kastrah/agentcookie) · [hermes-agent](https://github.com/kastrah/hermes-agent)
 
-Each tool is a skill built for AI coding agents. You load the skill, feed it text, and it returns a revised version focused on its layer. They work together or standalone.
+**Content & data** — [trending-scraper](https://github.com/kastrah/trending-scraper) · [tiktok-automation](https://github.com/kastrah/tiktok-automation) · [handwriting-converter](https://github.com/kastrah/handwriting-converter) · [rge-cli](https://github.com/kastrah/rge-cli)
+
+**Other** — [Qisas](https://github.com/kastrah/Qisas) · [tufte-vdqi-plugin](https://github.com/kastrah/tufte-vdqi-plugin) · [SlideSmith](https://github.com/kastrah/SlideSmith) · [roughdraft](https://github.com/kastrah/roughdraft)
