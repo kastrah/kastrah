@@ -1,6 +1,6 @@
 ### Hey, I'm AbdulKhaliq Akinwunmi
 
-I build tools that simplify the marketing and branding work I do every day, then share them for others to benefit.
+I build tools that simplify the marketing and branding work I do every day, then share them for others to benefit. I also document learning on my blog below.
 
 [Website](https://kastrah.com) · [Blog](https://kastrah.com/blog) · [X](https://x.com/heykastrah) · [LinkedIn](https://linkedin.com/in/abdulkhaliqakinwunmi)
 
