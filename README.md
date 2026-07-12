@@ -1,6 +1,6 @@
 ### Hey, I'm AbdulKhaliq Akinwunmi
 
-I build marketing tools with AI that make me faster — then share them so others can work the same way.
+I build tools that simplify the marketing and branding work I do every day — then share them so others can work the same way.
 
 [Website](https://kastrah.com) · [Blog](https://kastrah.com/blog) · [X](https://x.com/heykastrah) · [LinkedIn](https://linkedin.com/in/abdulkhaliqakinwunmi)
 
@@ -16,7 +16,8 @@ I build marketing tools with AI that make me faster — then share them so other
 | [market-command-matrix](https://github.com/kastrah/market-command-matrix) | Competitive research playbook for agents |
 | [trending-scraper](https://github.com/kastrah/trending-scraper) | Multi-platform content trend discovery |
 | [rge-cli](https://github.com/kastrah/rge-cli) | Email inspiration from Really Good Emails |
+| [orchestrator](https://github.com/kastrah/orchestrator) | Agent orchestration and workflow management |
 
 #### Other projects
 
-[handwriting-converter](https://handwritingconverter.com) · [Qisas](https://github.com/kastrah/Qisas)
+[handwriting-converter](https://handwritingconverter.com) · [excel-mastery-course](https://github.com/kastrah/excel-mastery-course) · [pcos-crossword-game](https://github.com/kastrah/pcos-crossword-game) · [Qisas](https://github.com/kastrah/Qisas)
